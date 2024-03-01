@@ -4,6 +4,10 @@ Welcome to Library Management Software V1.0!
 
 ![](https://miro.medium.com/v2/resize:fit:1200/1*4GUqSsl4hkvUOPi_K3poVA.png)
 
+<div align="center">
+    <img width="150" src="https://i.imgur.com/dca7pcI.png" alt="py_logo">
+</div>
+
 ## Overview
 
 This project is a simulation of a library management system, developed entirely in Python (using only the `typing` module). It allows users to interact with the system via the console. Users can perform various tasks such as adding books, lending books, returning books, and viewing the list of available books. Please note that this functionality is only available during runtime, as the book records are stored in an array.
