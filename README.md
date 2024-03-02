@@ -33,3 +33,7 @@ I plan to continue updating this project, as it serves as the basis for a larger
 2. Navigate to the project directory.
 3. Run the Python script.
 4. Follow the on-screen instructions to interact with the library management system.
+
+
+## New Versions here!
+[Version 2.0](https://github.com/LASM24/-library_management_software_V2.0/tree/main)
